@@ -21,7 +21,7 @@ biryukov_tv@mail.ru<br>
 - [Скрипт проверки состояния устройства и перезагрузки](https://github.com/Dok-dev/TelnetRobot)    
 - [Скрипт проверки места на сетевых хранилищах разных вендоров](https://github.com/Dok-dev/Scripting/tree/main/Python/storage-report)
 - [Скрипт мониторинга роста открытых на запись файлов полицейской записи](https://github.com/Dok-dev/Scripting/tree/main/Python/police)
-- [Скрипт проведения инвенторизации ифраструктуры в сегменте сети с Windows](https://github.com/Dok-dev/Scripting/tree/main/PowerShell%26WMI/Inventorysation)
+- [Скрипт проведения инвентаризации инфраструктуры в сегменте сети с Windows](https://github.com/Dok-dev/Scripting/tree/main/PowerShell%26WMI/Inventorysation)
 
 # Сертификаты
 [Операционные системы](https://gb.ru/certificates/1038904.en)    
