@@ -17,11 +17,12 @@ biryukov_tv@mail.ru<br>
   
 # Проекты и наработки
 - [Выполненные работы по курсу Нетологии DevOps-инженер.](https://github.com/Dok-dev/devops-netology)    
+- [Скрипт мониторинга роста открытых на запись файлов полицейской записи](https://github.com/Dok-dev/CamsChecker)    
 - [UDP клиент-сервер для проверки качества каналов связи](https://github.com/Dok-dev/UDP-client-server)    
 - [Скрипт проверки состояния устройства и перезагрузки](https://github.com/Dok-dev/TelnetRobot)    
 - [Скрипт проверки места на сетевых хранилищах разных вендоров](https://github.com/Dok-dev/Scripting/tree/main/Python/storage-report)
-- [Скрипт мониторинга роста открытых на запись файлов полицейской записи](https://github.com/Dok-dev/Scripting/tree/main/Python/police)
 - [Скрипт проведения инвентаризации инфраструктуры в сегменте сети с Windows](https://github.com/Dok-dev/Scripting/tree/main/PowerShell%26WMI/Inventorysation)
+- [Плагин для коммерческого сервера на Java](https://github.com/Dok-dev/Regenerator)    
 
 # Сертификаты
 [Операционные системы](https://gb.ru/certificates/1038904.en)    
