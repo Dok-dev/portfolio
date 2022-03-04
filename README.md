@@ -24,6 +24,9 @@ biryukov_tv@mail.ru<br>
 - [Скрипт проведения инвентаризации инфраструктуры в сегменте сети с Windows](https://github.com/Dok-dev/Scripting/tree/main/PowerShell%26WMI/Inventorysation)
 - [Плагин для коммерческого сервера на Java](https://github.com/Dok-dev/Regenerator)    
 
+# Диплом о профессиональной переподготовке    
+![ДПП](devops.png)    
+  
 # Сертификаты
 [Операционные системы](https://gb.ru/certificates/1038904.en)    
 ![Операционные системы](OS.PNG)    
