@@ -31,7 +31,7 @@ biryukov_tv@mail.ru<br>
   
 # Сертификаты
 Стажировка в Open Solutions
-![Open Solutions](OpenSolutions.jpg)
+![Open Solutions](doc/OpenSolutions.jpg)
 
 [Операционные системы](https://gb.ru/certificates/1038904.en)    
 ![Операционные системы](doc/OS.PNG)    
