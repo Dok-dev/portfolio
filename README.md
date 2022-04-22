@@ -8,7 +8,7 @@ biryukov_tv@mail.ru<br>
 Телеграм https://t.me/dev0ops<br>    
     </td>
     <td width="200"  align="center">
-<img src="photo.jpeg" alt="PHOTO" allign="right" height="200"/>
+<img src="doc/photo.jpeg" alt="PHOTO" allign="right" height="200"/>
     </td>
   </tr>
 <table>
@@ -25,32 +25,34 @@ biryukov_tv@mail.ru<br>
 - [Плагин для коммерческого сервера на Java](https://github.com/Dok-dev/Regenerator)    
 
 # Диплом о профессиональной переподготовке    
-![ДПП](devops.png)    
+![ДПП](doc/diplom.jpg)    
+![Диплом вкладыш](doc/diplom_vkladish.jpg)    
+![Диплос с-во](doc/devops.png)    
   
 # Сертификаты
 [Операционные системы](https://gb.ru/certificates/1038904.en)    
-![Операционные системы](OS.PNG)    
+![Операционные системы](doc/OS.PNG)    
 
 [Базы данных для профессионалов и язык SQL](https://gb.ru/certificates/561250.en)   
-![Базы данных](databases.png)    
+![Базы данных](doc/databases.png)    
 
 [Linux Intermediate](https://gb.ru/certificates/1042547.en)   
-![Linux Intermediate](linux.png)    
+![Linux Intermediate](doc/linux.png)    
 
 [Computer networks Middle level](https://gb.ru/certificates/548850.en)   
-![Computer networks](networks.png)    
+![Computer networks](doc/networks.png)    
 
 [Python](https://gb.ru/certificates/1041485.en)   
-![Python](python.png)    
+![Python](doc/python.png)    
 
 [Java](https://gb.ru/certificates/548878.en)   
-![Java](java.png)    
+![Java](doc/java.png)    
 
 [Основы сетей и сетевых операционных систем - Эксперт](http://www.specialist.ru/testrun/result/2912063)   
 ![Основы сетей и сетевых операционных систем](net-test.png)    
 
 [Английский B1](https://gb.ru/certificates/1041073.en)   
-![English B1](english.png)    
+![English B1](doc/english.png)    
 
 # Контакты
  +7 926 340-4678   
