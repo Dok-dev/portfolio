@@ -15,7 +15,7 @@ biryukov_tv@mail.ru<br>
 
 *DevOps-инженер, системный администратор с большим опытом работы и глубоким пониманием полного стека проблем и технологий ИТ-сферы. Люблю и с успехом занимаюсь автоматизацией рабочих процессов в компаниях.*
   
-# Проекты и наработки
+# Некоторые проекты и наработки
 - [Выполненные работы по курсу Нетологии DevOps-инженер.](https://github.com/Dok-dev/devops-netology)    
 - [Скрипт мониторинга роста открытых на запись файлов полицейской записи](https://github.com/Dok-dev/CamsChecker)    
 - [UDP клиент-сервер для проверки качества каналов связи](https://github.com/Dok-dev/UDP-client-server)    
@@ -27,7 +27,7 @@ biryukov_tv@mail.ru<br>
   
 # Тестовые задания с собеседований    
 - [9 задач из разных областей](https://github.com/Dok-dev/mts)    
-- [Плейбук Ansible для класстера MySQL+Redis+PHP+Nginx под несколько ОС](https://github.com/Dok-dev/ocrv)    
+- [Плейбук Ansible для кластера MySQL+Redis+PHP+Nginx под несколько ОС](https://github.com/Dok-dev/ocrv)    
 - [Скрипт для парсинга логов](https://github.com/Dok-dev/per_minute_parcer)    
   
 # Диплом о профессиональной переподготовке    
