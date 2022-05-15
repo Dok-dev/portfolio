@@ -19,11 +19,17 @@ biryukov_tv@mail.ru<br>
 - [Выполненные работы по курсу Нетологии DevOps-инженер.](https://github.com/Dok-dev/devops-netology)    
 - [Скрипт мониторинга роста открытых на запись файлов полицейской записи](https://github.com/Dok-dev/CamsChecker)    
 - [UDP клиент-сервер для проверки качества каналов связи](https://github.com/Dok-dev/UDP-client-server)    
+- [Роль Ansible Ngix+TLS](https://github.com/Dok-dev/ocrv/tree/main/roles/nginx) для развертывания стека [Nginx, PHP, MySQL, Redis](https://github.com/Dok-dev/ocrv) в различных ОС    
 - [Скрипт проверки состояния устройства и перезагрузки](https://github.com/Dok-dev/TelnetRobot)    
 - [Скрипт проверки места на сетевых хранилищах разных вендоров](https://github.com/Dok-dev/Scripting/tree/main/Python/storage-report)
 - [Скрипт проведения инвентаризации инфраструктуры в сегменте сети с Windows](https://github.com/Dok-dev/Scripting/tree/main/PowerShell%26WMI/Inventorysation)
 - [Плагин для коммерческого сервера на Java](https://github.com/Dok-dev/Regenerator)    
-
+  
+# Тестовые задания с собеседований    
+- [9 задач из разных областей](https://github.com/Dok-dev/mts)    
+- [Плейбук Ansible для класстера MySQL+Redis+PHP+Nginx под несколько ОС](https://github.com/Dok-dev/ocrv)    
+- [Скрипт для парсинга логов](https://github.com/Dok-dev/per_minute_parcer)    
+  
 # Диплом о профессиональной переподготовке    
 ![ДПП](doc/diplom.jpg)    
 ![Диплом вкладыш](doc/diplom_vkladish.jpg)    
