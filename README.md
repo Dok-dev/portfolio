@@ -58,7 +58,7 @@ biryukov_tv@mail.ru<br>
 ![Java](doc/java.png)    
 
 [Основы сетей и сетевых операционных систем - Эксперт](http://www.specialist.ru/testrun/result/2912063)   
-![Основы сетей и сетевых операционных систем](doc/enet-test.png)    
+![Основы сетей и сетевых операционных систем](doc/net-test.png)    
 
 [Английский B1](https://gb.ru/certificates/1041073.en)   
 ![English B1](doc/english.png)    
