@@ -19,7 +19,7 @@ biryukov_tv@mail.ru<br>
 - [Выполненные работы по курсу Нетологии DevOps-инженер.](https://github.com/Dok-dev/devops-netology)    
 - [Скрипт мониторинга роста открытых на запись файлов полицейской записи](https://github.com/Dok-dev/CamsChecker)    
 - [UDP клиент-сервер для проверки качества каналов связи](https://github.com/Dok-dev/UDP-client-server)    
-- [Роль Ansible Ngix+TLS](https://github.com/Dok-dev/ocrv/tree/main/roles/nginx) для развертывания стека [Nginx, PHP, MySQL, Redis](https://github.com/Dok-dev/ocrv) в различных ОС    
+- [Роль Ansible Nginx+TLS](https://github.com/Dok-dev/ocrv/tree/main/roles/nginx) для развертывания стека [Nginx, PHP, MySQL, Redis](https://github.com/Dok-dev/ocrv) в различных ОС    
 - [Скрипт проверки состояния устройства и перезагрузки](https://github.com/Dok-dev/TelnetRobot)    
 - [Скрипт проверки места на сетевых хранилищах разных вендоров](https://github.com/Dok-dev/Scripting/tree/main/Python/storage-report)
 - [Скрипт проведения инвентаризации инфраструктуры в сегменте сети с Windows](https://github.com/Dok-dev/Scripting/tree/main/PowerShell%26WMI/Inventorysation)
@@ -58,7 +58,7 @@ biryukov_tv@mail.ru<br>
 ![Java](doc/java.png)    
 
 [Основы сетей и сетевых операционных систем - Эксперт](http://www.specialist.ru/testrun/result/2912063)   
-![Основы сетей и сетевых операционных систем](net-test.png)    
+![Основы сетей и сетевых операционных систем](doc/enet-test.png)    
 
 [Английский B1](https://gb.ru/certificates/1041073.en)   
 ![English B1](doc/english.png)    
