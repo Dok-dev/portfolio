@@ -35,8 +35,8 @@ biryukov_tv@mail.ru<br>
 ![Диплом вкладыш](doc/diplom_vkladish.jpg)    
 ![Диплос с-во](doc/devops.png)    
   
-# Сертификаты
-Стажировка в Open Solutions
+# Сертификаты    
+Стажировка в Open Solutions    
 ![Open Solutions](doc/OpenSolutions.jpg)
 
 [Операционные системы](https://gb.ru/certificates/1038904.en)    
