@@ -5,7 +5,7 @@
       <br><br><br>
 +7 926 340-4678<br>   
 biryukov_tv@mail.ru<br>    
-Телеграм https://t.me/dev0ops<br>    
+Телеграм https://t.me/<br>    
     </td>
     <td width="200"  align="center">
 <img src="doc/photo.jpeg" alt="PHOTO" allign="right" height="200"/>
@@ -14,28 +14,16 @@ biryukov_tv@mail.ru<br>
 <table>
 
 *DevOps-инженер, системный администратор с большим опытом работы и глубоким пониманием полного стека проблем и технологий ИТ-сферы. Люблю и с успехом занимаюсь автоматизацией рабочих процессов в компаниях.*
-  
-# Некоторые проекты и наработки
-- [Выполненные работы по курсу Нетологии DevOps-инженер.](https://github.com/Dok-dev/devops-netology)    
-- [Скрипт мониторинга роста открытых на запись файлов полицейской записи](https://github.com/Dok-dev/CamsChecker)    
-- [UDP клиент-сервер для проверки качества каналов связи](https://github.com/Dok-dev/UDP-client-server)    
-- [Роль Ansible Nginx+TLS](https://github.com/Dok-dev/ocrv/tree/main/roles/nginx) для развертывания стека [Nginx, PHP, MySQL, Redis](https://github.com/Dok-dev/ocrv) в различных ОС    
-- [Скрипт проверки состояния устройства и перезагрузки](https://github.com/Dok-dev/TelnetRobot)    
-- [Скрипт проверки места на сетевых хранилищах разных вендоров](https://github.com/Dok-dev/Scripting/tree/main/Python/storage-report)
-- [Скрипт проведения инвентаризации инфраструктуры в сегменте сети с Windows](https://github.com/Dok-dev/Scripting/tree/main/PowerShell%26WMI/Inventorysation)
-- [Плагин для коммерческого сервера на Java](https://github.com/Dok-dev/Regenerator)    
-  
-# Тестовые задания с собеседований    
-- [9 задач из разных областей](https://github.com/Dok-dev/mts)    
-- [Плейбук Ansible для кластера MySQL+Redis+PHP+Nginx под несколько ОС](https://github.com/Dok-dev/ocrv)    
-- [Скрипт для парсинга логов](https://github.com/Dok-dev/per_minute_parcer)    
-  
+ 
 # Диплом о профессиональной переподготовке    
 ![ДПП](doc/diplom.jpg)    
 ![Диплом вкладыш](doc/diplom_vkladish.jpg)    
 ![Диплос с-во](doc/devops.png)    
   
 # Сертификаты    
+Курс «Administrator Linux. Professional»
+![Linux Professional](doc/linux_pro.png)
+
 Стажировка в Open Solutions    
 ![Open Solutions](doc/OpenSolutions.jpg)
 
@@ -62,6 +50,20 @@ biryukov_tv@mail.ru<br>
 
 [Английский B1](https://gb.ru/certificates/1041073.en)   
 ![English B1](doc/english.png)    
+
+# Некоторые проекты и наработки
+- [Выполненные работы по курсу Нетологии DevOps-инженер.](https://github.com/Dok-dev/devops-netology)    
+- [Скрипт мониторинга роста открытых на запись файлов полицейской записи](https://github.com/Dok-dev/CamsChecker)    
+- [UDP клиент-сервер для проверки качества каналов связи](https://github.com/Dok-dev/UDP-client-server)    
+- [Скрипт проверки состояния устройства и перезагрузки](https://github.com/Dok-dev/TelnetRobot)    
+- [Скрипт проверки места на сетевых хранилищах разных вендоров](https://github.com/Dok-dev/Scripting/tree/main/Python/storage-report)
+- [Скрипт проведения инвентаризации инфраструктуры в сегменте сети с Windows](https://github.com/Dok-dev/Scripting/tree/main/PowerShell%26WMI/Inventorysation)
+- [Плагин для коммерческого сервера на Java](https://github.com/Dok-dev/Regenerator)    
+  
+# Тестовые задания с собеседований    
+- [9 задач из разных областей](https://github.com/Dok-dev/mts)    
+- [Плейбук Ansible для кластера MySQL+Redis+PHP+Nginx под несколько ОС](https://github.com/Dok-dev/ocrv)    
+- [Скрипт для парсинга логов](https://github.com/Dok-dev/per_minute_parcer) 
 
 # Контакты
  +7 926 340-4678   
