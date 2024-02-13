@@ -5,7 +5,7 @@
       <br><br><br>
 +7 926 340-4678<br>   
 biryukov_tv@mail.ru<br>    
-Телеграм https://t.me/<br>    
+Телеграм https://t.me/gigaparsec<br>    
     </td>
     <td width="200"  align="center">
 <img src="doc/photo.jpeg" alt="PHOTO" allign="right" height="200"/>
